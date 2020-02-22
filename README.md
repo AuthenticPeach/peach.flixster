@@ -23,10 +23,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://recordit.co/d7kxRivqkj`. 
 
-<img src="https://recordit.co/d7kxRivqkj" width=350><br>
+<img src='http://g.recordit.co/0S9wCGvYl6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
+<img src='https://recordit.co/d7kxRivqkj.gif'/>
+
+GIF created with [Recordit](https://recordit.co).
 ### Notes
 Forgot how to create a github repository for this in xcode. 
 Had issues which led me to have to upgrade OS to Catalina and newest version of Xcode. 
